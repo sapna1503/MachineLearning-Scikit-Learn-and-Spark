@@ -1,7 +1,6 @@
 # MachineLearning-Scikit-Learn-and-Spark
 
-1.GRE data
-Use Scikitlearn to compute linear regression
+1.GRE data - Use Scikitlearn to compute linear regression
 Given a GRE score what GPA does it predict?
 
 2.Dwell Data (muitiple-site.tsv)
